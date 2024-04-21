@@ -1,0 +1,23 @@
+URL -> https://parabank.parasoft.com/parabank/index.htm
+
+1. Register and Log Out
+
+2. Login and Check both the Account and Print (Account Type, Balance)
+
+3. Open New Saving Account and Transfer Amount of 1000
+
+4. Transfer From form Checking to Saving (1000) in newly saving account and in Find Transactions search by Transaction ID.
+
+5. Apply Loan and verfiy Account Added in Account overview 
+
+6. Scroll to Bottom of Page and check all link are working(HTTP)
+
+7. In Services Page, Find Bookstore Service Table and get all the methods available
+
+Open New Account
+Accounts Overview
+Transfer Funds
+Bill Pay
+Find Transactions
+Update Contact Info
+Request Loan
